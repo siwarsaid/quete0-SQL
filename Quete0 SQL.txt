@@ -1,0 +1,11 @@
+SGBD SQL:
+- MySQL.
+- SQlite.
+- PostGreSQL.
+- SQLserver.
+
+
+SGBD noSQL:
+- CoucheDB (utilise le protocole HTTP et le format de données JSON). 
+- MongoDB(tilise son propre langage de requête basé sur un format JSON).
+- Redis(utilise son propre ensemble de commandes, basé sur la structure clé-valeur).
